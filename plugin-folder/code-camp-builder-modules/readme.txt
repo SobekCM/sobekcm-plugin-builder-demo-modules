@@ -1,0 +1,1 @@
+After you enable the plug-in, you will need to run the install SQL script.
